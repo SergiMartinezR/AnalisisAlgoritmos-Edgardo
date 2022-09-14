@@ -13,7 +13,7 @@ Creado con algunas herramientas como:
 
 1. Clona este repositorio:
   ```
-  git clone https://github.com/DavidPerezAntonio51/AnalisisAlgoritmos-Edgardo.git
+  git clone https://github.com/SergiMartinezR/AnalisisAlgoritmos-Edgardo.git
   ```
 2. Instala las dependencias
   ```
